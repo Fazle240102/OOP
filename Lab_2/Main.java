@@ -11,7 +11,7 @@ public class Main {
         int size = in.nextInt();
         int [] array = new int[size];
 
-        for(int i = 0; i < 5; i++)
+        for(int i = 0; i < size; i++)
         {
             array[i] = in.nextInt();
 
