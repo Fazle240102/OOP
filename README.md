@@ -27,7 +27,7 @@ The exercises cover foundational Java and object-oriented programming concepts s
 - Methods
 - Constructors
 - Basic calculations
-- Inheritance-oriented modelling
+- Inheritance and class relationships
 - Program structure
 
 ## ▶️ Run
